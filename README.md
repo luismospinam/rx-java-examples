@@ -1,4 +1,4 @@
-# RxJava 2 
+# rx-java-examples
 Simple examples of the differents RxJava Components:
 
 	- Source of Observables
